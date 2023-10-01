@@ -1,4 +1,4 @@
-Olá! 👋
+Olá! 👋</br>
 Seja bem vindo ao meu perfil.
 Sou um estudante de Análise e Desenvolvimento de Sistemas na universidade UNISO, apaixonado por tecnologia e programação. Atualmente, estou aprimorando minhas habilidades em desenvolvimento BackEnd com o curso da Cubos Academy, focado em JavaScript e Node.js.
 
