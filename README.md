@@ -4,7 +4,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na universidade UNISO
 
 # STATS
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloMabilia&show_icons=true&theme=shadow_green)
+![Danilo's GitHub Status](https://github-readme-stats.vercel.app/api?username=DaniloMabilia&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMabilia&show_icons=true&theme=shadow_green)
 
 
